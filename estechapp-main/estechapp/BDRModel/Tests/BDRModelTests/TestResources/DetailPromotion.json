@@ -1,0 +1,52 @@
+{
+    "uid":"klggaW",
+    "title":"Delivery Test Promo 20%",
+    "image":"https://bederr-staging.s3.amazonaws.com/media/promotions/20210628113000_45335a717d574253b191124481c19187.png",
+    "company_retail":{
+        "uid":"9qJVB8",
+        "name":"La Santa Leña",
+        "web_page":"",
+        "facebook_page":"",
+        "logo":"https://bederr-staging.s3.amazonaws.com/media/companies/logo_photos/20210714110751_f39e43bad35e43d58e8b27742f1d9b63.png",
+        "cover":null,
+        "logo_rectangle":null,
+        "description":"Desde el inicio de los tiempos, desde que el hombre conociÃ³ el fuego, supo lo que era realmente bueno para su paladar. Ya desde ese entonces, insertÃ³ en su ADN el gusto incomparable que le da la leÃ±a a sus comidas. Con el tiempo aparecerÃ­an nuevas opciones de preparaciÃ³n, hasta que alguien alguna vez dijo: âMuy rico y todo peroâ¦ A LA LEÃA SABE MEJORâ."
+        
+    },
+    "pin":{
+        "uid":"ZWERJk",
+        "name":"Promo",
+        "image":"https://bederr-staging.s3.amazonaws.com/media/offers/pines/originals/7f9e6be1995c4b7a95596e7cae197d58_20190207073639.png"
+        
+    },
+    "enable_lead":false,
+    "interested":false,
+    "lead_form":null,
+    "terms":"PromociÃ³n vÃ¡lida con cualquier medio de pago. En caso de que el beneficiario sea un tercero, deberÃ¡ indicar el cÃ³digo que el afiliado le compartiÃ³ a su correo electrÃ³nico para el canje correspondiente. El Banco de Comercio actÃºa como intermediario por lo que no tendrÃ¡ responsabilidad legal por cualquier daÃ±o o perjuicio que pudiera derivarse de la idoneidad de los servicios o productos que ofrecen los establecimientos afiliados.",
+    "enable_countdown":false,
+    "is_featured":true,
+    "is_transferable":true,
+    "end_date":"2021-12-31",
+    "is_digital_entity":false,
+    "link":"","coupon":null,
+    "used_coupon":false,
+    "is_used":0,
+    "content":"Para acceder al beneficio es necesario indicar el documento de identidad por telÃ©fono. \r\n \r\nTelÃ©fono de contacto: 999999999. \r\n \r\nAnte cualquier imprevisto o consulta referente al beneficio, comunicarse al: 943467668.",
+    "promotion_terms":"Válido hasta el 31 de Diciembre del 2021.\r\nNo acumulable con otras promociones y/o descuentos.\r\nVÃ¡lido comunicÃ¡ndose al: 999999999.\r\nVÃ¡lido Ãºnicamente para Delivery.",
+    "is_blocked":false,
+    "available":30,
+    "raffle":null,
+    "is_available":true,
+    "allow_steps":false,
+    "was_transferred":false
+    ,"is_transferred":false
+    ,"required_stamps":0,
+    "available_stamps":0,
+    "allow_payment":false,
+    "type":"RATE",
+    "original_price":"0.00",
+    "purchase":null,
+    "promotion_uid":"9QBQg8"
+    
+}
+
